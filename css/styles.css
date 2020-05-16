@@ -352,3 +352,8 @@ header {
     margin-bottom: 0;
 }
 
+/* The Perfect Blend Section */
+
+.perfect-blend {
+    background: url('../images/perfect-blend.jpg') center no-repeat;
+}
